@@ -4,3 +4,5 @@
 
 This repo contains all the essential resource required in Python. 
 
+![> Useful Function](https://github.com/Aashutosh0033/Python-Essentials/blob/main/Useful%20Functions.md)
+
