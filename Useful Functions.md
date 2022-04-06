@@ -1,11 +1,11 @@
 ## Useful Functions
 
 -> ***abs(number)*** : Returns absolute value<br>
--> *all(iterable)* : Returns if all  items in iterable object are True<br>
--> *bool([x])* : Returns bool value<br>
--> *chr(number)* : Returns character from specified unicode<br>
--> *ord(char)* : Returns ASCII value<br>
--> *dict(iterable)* : Returns dictionary of an iterable<br>
+-> ***all(iterable)*** : Returns if all  items in iterable object are True<br>
+-> ***bool([x])*** : Returns bool value<br>
+-> ***chr(number)*** : Returns character from specified unicode<br>
+-> ***ord(char)*** : Returns ASCII value<br>
+-> ***dict(iterable)*** : Returns dictionary of an iterable<br>
 -> *list(iterable)* : Returns list of an iterable<br>
 -> *tuple(iterable)* : Returns tuple of an iterable<br>
 -> *set(iterable)* : Returns set of an iterable<br>
