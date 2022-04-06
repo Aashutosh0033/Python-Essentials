@@ -1,6 +1,6 @@
 ## Useful Functions
 
--> *abs(number)* : Returns absolute value<br>
+-> ***abs(number)*** : Returns absolute value<br>
 -> *all(iterable)* : Returns if all  items in iterable object are True<br>
 -> *bool([x])* : Returns bool value<br>
 -> *chr(number)* : Returns character from specified unicode<br>
