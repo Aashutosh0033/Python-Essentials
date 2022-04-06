@@ -42,6 +42,11 @@
 -> ***replace(old, new , count)*** : replaces specified phrase with another specified phrase <br>
 -> ***swapcase()*** : Returns uppercase letters lowercase and vice versa <br>
 -> ***"seperator".join(iterable)*** : Takes all items in an iterable & joins them in one string we have to specify string as seperator <br>
+-> ***isnumeric() or isdigit*** : Returns True if input is a number<br>
+-> ***isalpha()*** : Returns True if input is an alphabet<br>
+->***isupper()*** : Returns True if a letter is uppercase<br>
+->***islower()*** : Returns True if a letter is lowercase<br>
+                                                       
 
 ### List
 -> ***append(value)*** : Appends value at the end <br>
